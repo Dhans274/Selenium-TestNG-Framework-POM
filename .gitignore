@@ -1,0 +1,25 @@
+# Maven build output
+target/
+
+# TestNG output
+test-output/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven release files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Maven timing
+.mvn/timing.properties
+
+# Maven Wrapper binary
+.mvn/wrapper/maven-wrapper.jar

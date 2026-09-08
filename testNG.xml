@@ -1,0 +1,14 @@
+<suite name="DemoTour">
+	<test name ="Test automation framework">
+		<classes>
+			<class name="Assign_Framework.test.Registration" />
+			<class name="Assign_Framework.test.loginTest"/>
+			<class name="Assign_Framework.test.flightReservation"/>
+		</classes>
+		<!--<classes>
+			<class name="Assign_Framework.test.airbusTrainbookingTest"/>
+		</classes>-->
+		
+	</test>
+
+</suite>
